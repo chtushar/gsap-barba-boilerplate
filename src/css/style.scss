@@ -1,0 +1,11 @@
+$bg: black;
+
+.intro-component{
+    padding: 20px;
+    background: $bg;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    h1{
+        text-transform: uppercase;
+    }
+}
