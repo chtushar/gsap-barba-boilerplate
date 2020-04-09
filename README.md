@@ -11,5 +11,6 @@ npm run dev
 ```
 
 Use following command to build the project (Note: All the production file can be found in 'dist' folder after running the command)
-```npm run build
+```
+npm run build
 ```
